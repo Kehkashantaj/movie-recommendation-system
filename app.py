@@ -91,4 +91,4 @@ if movies_df is not None and cosine_sim is not None:
                     st.warning("Could not find any similar movies.")
 else:
     st.error("🚨 Model files not found!")
-    st.warning("Please run the updated training script first.")
+    st.warning("Please run the updated training script first.")
